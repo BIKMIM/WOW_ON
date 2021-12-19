@@ -1,0 +1,9 @@
+D:\C#\WOW_ON\WOW_ON\bin\Debug\WOW_ON.exe
+D:\C#\WOW_ON\WOW_ON\bin\Debug\WOW_ON.pdb
+D:\C#\WOW_ON\WOW_ON\obj\Debug\WOW_ON.csprojAssemblyReference.cache
+D:\C#\WOW_ON\WOW_ON\obj\Debug\WOW_ON.Form1.resources
+D:\C#\WOW_ON\WOW_ON\obj\Debug\WOW_ON.Properties.Resources.resources
+D:\C#\WOW_ON\WOW_ON\obj\Debug\WOW_ON.csproj.GenerateResource.cache
+D:\C#\WOW_ON\WOW_ON\obj\Debug\WOW_ON.csproj.CoreCompileInputs.cache
+D:\C#\WOW_ON\WOW_ON\obj\Debug\WOW_ON.exe
+D:\C#\WOW_ON\WOW_ON\obj\Debug\WOW_ON.pdb
